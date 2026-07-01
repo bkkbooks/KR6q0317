@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0317/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 絕岸可湘禪師語錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X70/X70n1384.xml
+    old_id: X70n1384
+hash: sha256:b03a67e08ce3c6e9dd3d96171be1ffa02f9cdd489c63b5f016eb64f49dcec786
