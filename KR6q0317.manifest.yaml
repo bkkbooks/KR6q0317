@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0317_000.yaml, hash: 'sha256:b03a67e08ce3c6e9dd3d96171be1ffa02f9cdd489c63b5f016eb64f49dcec786'}
-  - {seq: 1, filename: KR6q0317_001.yaml, hash: 'sha256:0e7e116658c37ab13ce854620f04c5b2323cef5c11f37ac5e15622bd76455552'}
+  - {seq: 1, filename: KR6q0317_001.yaml, hash: 'sha256:d05bce2f1ae1de391c2b061e51b98f155404f9ca96c8f62b10c1c5f2f2329938'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0317_001.markers.yaml, hash: 'sha256:b7084990b29d50af5dcb6baee48389fdb876fc2ff38422b22896f8e28b523133'}
+  - {seq: 0, role: markers, filename: assets/KR6q0317_000.markers.yaml, hash: 'sha256:74280c67b88f840fb27349977a061cc66dea41c9766c16f103b5fc45dc53bb9e'}
+  - {seq: 1, role: markers, filename: assets/KR6q0317_001.markers.yaml, hash: 'sha256:fc40db37b8cf2ae4fd676eb37b617970f940adad6cc8c54227ea3935381470cb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1076,7 +1077,4 @@ table_of_contents:
   label: 為上禪人題送行軸之仰山鐘阜
   type: mulu
   level: 1
-hash: sha256:700e39af9b04ed4f30563de8244ac886900756e7e2b1f93dab51087195d983f6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9e5773402b0f1e7a0e757de0cd2964026e4b51cdd408c9838664ce24734a2fce
