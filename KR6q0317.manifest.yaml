@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0317/v1
 canonical_location: https://kanripo.org/bkk/KR6q0317/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 絕岸可湘禪師語錄
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0317_000.yaml, hash: 'sha256:b03a67e08ce3c6e9dd3d96171be1ffa02f9cdd489c63b5f016eb64f49dcec786'}
-  - {seq: 1, filename: KR6q0317_001.yaml, hash: 'sha256:d05bce2f1ae1de391c2b061e51b98f155404f9ca96c8f62b10c1c5f2f2329938'}
+  - {seq: 1, filename: KR6q0317_001.yaml, hash: 'sha256:653fbb0c71e0e1d186e6c106e88241b4fb5b461b3d4b44373902b70fea92f943'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0317_000.markers.yaml, hash: 'sha256:74280c67b88f840fb27349977a061cc66dea41c9766c16f103b5fc45dc53bb9e'}
-  - {seq: 1, role: markers, filename: assets/KR6q0317_001.markers.yaml, hash: 'sha256:fc40db37b8cf2ae4fd676eb37b617970f940adad6cc8c54227ea3935381470cb'}
+  - {seq: 1, role: markers, filename: assets/KR6q0317_001.markers.yaml, hash: 'sha256:63703ac0ff29eebea57ab42bd7c252a2ad388b942d16223f6edcf66a2c39b254'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1077,4 +1077,7 @@ table_of_contents:
   label: 為上禪人題送行軸之仰山鐘阜
   type: mulu
   level: 1
-hash: sha256:9e5773402b0f1e7a0e757de0cd2964026e4b51cdd408c9838664ce24734a2fce
+hash: sha256:49f9687e8efd66899bd8d717a7adeb2b196bef27634b1aff172c7409ed69ee91
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
